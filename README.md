@@ -5,4 +5,4 @@ task1 is a python code that gives abilities to NAO robot like Say Introduction, 
 
 task2 is another python code that detected a ball, you can look over with details in the code.
 
-Here you can also see video(if you can not see it maybe you can download it) from the implemented codes on Nao robot. 
+Here you can also see video as NAo Robot.mp4 (if you can not see it maybe you can download it) from the implemented codes on Nao robot. 
